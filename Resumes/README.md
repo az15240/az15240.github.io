@@ -1,13 +1,21 @@
-A collection of previous resume versions...
+# My Resume
 
-`rename_spaces.sh` is used for renaming the files for a better formatting issues.
+USAGE:
 
-E.g. previous file names are `Resume - Stanley Yang - 0321.docx`. The spaces are tricky to tackle when coming to terminals, so I decided to replace the spaces by underlines and remove extra delimiters, if necessary.
+- `rename_spaces.sh` is used for renaming the files for a better formatting issues. E.g. previous file names are `Resume - Stanley Yang - 0321.docx`. The spaces are tricky to tackle when coming to terminals, so I decided to replace the spaces by underlines and remove extra delimiters, if necessary.
+
+- **Please only work on and make changes to `Resume_Stanley_Yang.docx` file.** Commit the changes regularly. Use command `make` to generate the pdf resume file. In this way no file renamings and version trackings is required.
+
+- use `make clean` to remove all pdf files.
 
 
-Things I learned:
+--------
+
+
+Things I've learned:
 
 `make -B <target>` will ignore timestamp checks and execute the target unconditionally.
 
+--------
 
-Current problem to address: too many copies and versions of word (TBD)
+~~Current problem to address: too many copies and versions of word (TBD)~~ Update: might not worth the effort since I still have lots of other messy "helper" files (or simply because I don't want to delete them) 
