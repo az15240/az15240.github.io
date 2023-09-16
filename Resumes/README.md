@@ -2,7 +2,7 @@
 
 USAGE:
 
-- `rename_spaces.sh` is used for renaming the files for a better formatting issues. E.g. previous file names are `Resume - Stanley Yang - 0321.docx`. The spaces are tricky to tackle when coming to terminals, so I decided to replace the spaces by underlines and remove extra delimiters, if necessary.
+- `rename_spaces.sh` is used for renaming the files for a better formatting issues. E.g. previous file names are like `Resume - Stanley Yang - 0321.docx`. The spaces are tricky to tackle when coming to terminals, plus the trailing dates are so bad and dumb, so I decided to replace the spaces by underlines and remove extra delimiters, if necessary.
 
 - **Please only work on and make changes to `Resume_Stanley_Yang.docx` file.** Commit the changes regularly. Use command `make` to generate the pdf resume file. In this way no file renamings and version trackings is required.
 
