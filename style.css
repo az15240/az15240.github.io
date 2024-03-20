@@ -1,0 +1,19 @@
+/* styles.css */
+.container {
+    border: 3px solid #ccc;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    flex: 1;
+    padding: 10px;
+}
+
+.image {
+    flex-shrink: 0;
+    padding: 10px;
+    max-width: 100%; /* Ensure the image does not exceed the container width */
+    height: auto; /* Maintain the image's aspect ratio */
+}
