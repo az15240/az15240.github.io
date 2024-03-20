@@ -26,7 +26,7 @@ layout: homepage
 - **[Jan. 2024]** I started doing research on primitive tagging. Our project focuses on developing user-in-the-loop semi-automatic methods to identify the type and shape parameters of geometric primitives that best fit a given input mesh. 
 - **[Jan. 2024]** I took an extremely challenging but interesting grad course [CSE599O Diff&Prob PL](https://sites.google.com/cs.washington.edu/cse-599o-dppl). I learned a lot about abstract math, programming languages, and their applications.
 - **[Sep. 2023]** I joined professor [Gilbert Bernstein](https://gilbertbernstein.com/)'s group.
-- **[Sep. 2023]** I participated the [2023 TAPIA Conference](https://tapiaconference.cmd-it.org/).
+- **[Sep. 2023]** I participated in the [2023 TAPIA Conference](https://tapiaconference.cmd-it.org/), a conference promoting and celebrating diversity.
 - **[Jun. 2023]** I volunteered in the [2023 ACM SIGMOD/PODS Conference](https://2023.sigmod.org/), helped with six research and tutorial sessions.
 - **[Jun. 2023]** I started doing summer research with PhD student [Remy Wang](https://remy.wang/) on SQL. 
 - **[Jun. 2023]** I joined [PLSE](https://uwplse.org/) as an undergraduate researcher.
@@ -216,4 +216,4 @@ I conducted an individual research project and earned college credit from Oberli
 - I am a crazy cat lover, though not currently having one. [Puff](https://space.bilibili.com/298946431) is the cutest cat in my opinion. Her mom is an American shorthair, her dad is a Scottish Fold, and she had a younger Ragdoll cousin called Paofan.  I have tons of merch of Puff, including two pillows, two T-Shirts, a card holder, dozens of stickers, and thousands of stickers in my phone. 
 - When I am not coding or reading papers, I enjoy playing [board games](https://bloodontheclocktower.com/), petting cats, playing video games, doing sports, cooking, watching movies, and reading fictions. I am also a veteran LTK (Legends of the Three Kingdoms) player, in which I had once reached the top 20 globally in the 10th Anniversary server.
 - I applied for Oxford University for undergraduate school, but I got rejected. Maybe I messed up with my interview but I was feeling ok for it. There are a MAT (Maths Admissions Test) and I got surprisingly good on it, getting a 97 out of 100 which ranks top 1% among 2816 competitors. I felt so close to Oxford but what a pity...
-- My Chinese name is 杨光 (Yáng Guāng).
+- My Chinese name is 杨光 (Yáng Guāng), which means sunshine. It is a very common Chinese name and lots of people have the same name as me. Fun fact: I have a neighbor with the exact same name (first and last!) as me.
