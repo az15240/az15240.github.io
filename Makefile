@@ -1,4 +1,4 @@
-MARKDOWN_FILES := $(wildcard)
+MARKDOWN_FILES := $(wildcard *.md)
 
 PANDOC_OPTIONS := -f markdown+inline_code_attributes+superscript \
                   -t html --katex -s \
@@ -7,9 +7,12 @@ PANDOC_OPTIONS := -f markdown+inline_code_attributes+superscript \
                   -V linestretch=1.6 \
                   --highlight-style=monochrome
 
-all: index.html
+all: index.html courses.html
 
 index.html: index.md
+	pandoc $< $(PANDOC_OPTIONS) -o $@
+
+courses.html: courses.md
 	pandoc $< $(PANDOC_OPTIONS) -o $@
 
 .PHONY: all
