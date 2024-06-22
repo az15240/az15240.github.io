@@ -8,16 +8,16 @@ layout: homepage
 - CSE 431: Introduction to Theory of Computation
 - CSE 446: Machine Learning
 - CSE 492R: Guided Research Program for Undergraduates
-- CSE 499: Undergraduate Research
+- CSE 499: Undergraduate Research - [Primitive Tagging](https://github.com/merlinyx/primtag), [poster](https://github.com/merlinyx/primtag/blob/main/poster.png)
 - CSE 590P: Programming Languages Reading Group Seminar
-- MATH 336: Accelerated Advanced Calculus (Complex Analysis)
+- MATH 336: Accelerated Advanced Calculus (Complex Analysis) - [An Introduction to Computational Complexity](./assets/files/An_Introduction_to_Computational_Complexity.pdf)
 
 **Winter 2024**
 - CSE 344: Introduction to Data Management - [Flight App](https://github.com/az15240/Flight-App)
 - CSE 492R: Guided Research Program for Undergraduates
-- CSE 499: Undergraduate Research - [Primitive Tagging](https://github.com/merlinyx/primtag)
+- CSE 499: Undergraduate Research - [Primitive Tagging](https://github.com/merlinyx/primtag), [poster](https://github.com/merlinyx/primtag/blob/main/poster.png)
 - CSE 590P: Programming Languages Reading Group Seminar
-- CSE 599O: Differentiable & Probabilistic Programming Languages - [CaCL](https://gitlab.cs.washington.edu/599o-wi24-dppl/yz489/cacl)
+- CSE 599O: Differentiable & Probabilistic Programming Languages - [CaCL (Change and Chance Language) Interpreter & Compiler](https://gitlab.cs.washington.edu/599o-wi24-dppl/yz489/cacl)
 - MATH 335: Accelerated Advanced Calculus (Real Analysis)
 
 **Autumn 2023**
