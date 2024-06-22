@@ -15,4 +15,7 @@ index.html: index.md
 courses.html: courses.md
 	pandoc $< $(PANDOC_OPTIONS) -o $@
 
+projects.html: projects.md
+    pandoc $< $(PANDOC_OPTIONS) -o $@:
+
 .PHONY: all
