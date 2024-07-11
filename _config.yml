@@ -53,3 +53,11 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+  title: My Awesome Blog
+  description: Updates from My Awesome Blog
