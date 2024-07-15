@@ -19,9 +19,6 @@ courses.html: courses.md
 projects.html: projects.md
 	pandoc $< $(PANDOC_OPTIONS) -o $@
 
-blog.html: blog.md
-	pandoc $< $(PANDOC_OPTIONS) -o $@
-
 blog/%.html: blog/%.md
 	pandoc $< $(PANDOC_OPTIONS) -o $@
 
