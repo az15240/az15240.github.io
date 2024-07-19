@@ -1,14 +1,14 @@
 # Basic Information 
 title: Stanley Yang
-position: Computer Science Undergraduate Student
+position: Undergraduate Student
 affiliation: University of Washington
 email: guangyg (at) cs.washington.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Stanley Yang
+description: Welcome to Stanley Yang's personal website.
+canonical: https://az15240.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,6 +21,9 @@ linkedin: https://www.linkedin.com/in/stanley-yang-9457b7252/
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/Puff.png
 favicon_dark: ./assets/img/Puff_enlarged.png
+blog_avatar: ../assets/img/avatar.png
+blog_favicon: ../assets/img/Puff.png
+blog_favicon_dark: ../assets/img/Puff_enlarged.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -42,6 +45,9 @@ font: "Serif" # or "Sans Serif"
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
+# Build settings
+markdown: kramdown
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
@@ -59,5 +65,5 @@ plugins:
 
 feed:
   path: feed.xml
-  title: My Awesome Blog
-  description: Updates from My Awesome Blog
+  title: Stanley's Awesome Blog
+  description: Updates from Stanley's Awesome Blog

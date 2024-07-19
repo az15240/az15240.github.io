@@ -7,6 +7,7 @@ header-includes: |
   }
   .katex-display { overflow: auto hidden }
   </style>
+layout: blog
 ---
 
 ## Welcome to my blog. 欢迎来到我的博客

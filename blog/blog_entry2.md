@@ -1,3 +1,7 @@
+---
+layout: blog
+---
+
 # LaTeX Showcase in Markdown
 
 ## Inline Math

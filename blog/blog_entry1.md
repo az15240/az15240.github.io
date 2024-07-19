@@ -1,3 +1,10 @@
+---
+layout: blog
+title: Notes on the scheduling and extraction problems of EqSat
+author: Yihong Zhang
+date: Mar 9, 2022
+---
+
 # Sample Document
 
 This is a sample document with some LaTeX math.
@@ -11,7 +18,7 @@ $$
 
 ------
 
-First example, bold, italics and underline:
+First example, bold, italics and underline: 
 
 Some of the \textbf{greatest} discoveries in \underline{science} were made by \textbf{\emph{accident}}.
 

@@ -1,4 +1,5 @@
 ---
+usemathjax: true
 layout: homepage
 ---
 
@@ -59,7 +60,7 @@ layout: homepage
 
 ## [Coursework](courses.html)
 
-
+## [Blog](blog)
 
 ## Selected Awards
 
