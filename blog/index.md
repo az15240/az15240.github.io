@@ -25,4 +25,4 @@ More stuff yet to come...
 
 | 1999.99.99 | [Blog Entry 1](./blog_entry1.md) |
 | 1234.56.78 | [Blog Entry 2](./blog_entry2.md) |
-
+| \today | [Blog Entry 3](./blog_entry3.md) |
