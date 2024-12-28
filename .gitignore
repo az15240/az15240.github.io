@@ -1,5 +1,4 @@
 .DS_Store
-Resume/.DS_Store
 _site/
 *.html
 !_layouts/*
