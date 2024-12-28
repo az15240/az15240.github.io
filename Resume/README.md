@@ -1,8 +1,8 @@
 # My Resume
 
-Updated on 10/01/24: `main.tex` is the $LaTeX$ file for my Resume. I put it in overleaf to get an updated pdf, currently named `Resume_Stanley_Yang_LaTeX.pdf`.
+Updated on 12/28/24: `main.tex` is the $LaTeX$ file for my Resume. I put it in overleaf to get an updated pdf, currently named `Resume_Stanley_Yang.pdf`.
 
-All previous versions are named `Resume_Stanley_Yang.pdf`, and I decide not to update them anymore. 
+All previous versions are put in the folder `Previous Versions and Helper Files`, and I decide not to update them anymore. 
 
 -----
 
