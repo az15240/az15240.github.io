@@ -18,10 +18,10 @@ linkedin: https://www.linkedin.com/in/stanley-yang-9457b7252/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/amazon_photo_square.jpeg # also headshot.png
 favicon: ./assets/img/Puff.png
 favicon_dark: ./assets/img/Puff_enlarged.png
-blog_avatar: ../assets/img/avatar.png
+blog_avatar: ../assets/img/amazon_photo_square.jpeg # also headshot.png
 blog_favicon: ../assets/img/Puff.png
 blog_favicon_dark: ../assets/img/Puff_enlarged.png
 
