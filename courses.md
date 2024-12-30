@@ -4,6 +4,20 @@ layout: homepage
 
 # Coursework
 
+**Winter 2025**
+- CSE 498: Undergraduate Research - [3DGS](https://github.com/PLSE-Splats)
+- CSE 461: Introduction to Computer Communication Networks
+- CSE 590P: Programminndergrag Languages Reading Group Seminar
+- MATH 403: Introduction to Modern Algebra (Groups)
+
+
+**Autumn 2024**
+- CSE 498: Undergraduate Research - [3DGS](https://github.com/PLSE-Splats)
+- CSE 557: Computer Graphics - [Scotty3D](https://gitlab.cs.washington.edu/cse557-24au/cse557-24au-students/cse557-24au-hzhao5)
+- CSE 590P: Programminndergrag Languages Reading Group Seminar
+- MATH 402: Introduction to Modern Algebra (Rings & Fields)
+
+
 **Spring 2024**
 - CSE 431: Introduction to Theory of Computation
 - CSE 446: Machine Learning
