@@ -6,6 +6,17 @@ layout: homepage
 ## [Projects and Experiences](projects.html)
 
 
+**[Scotty3D: a 3D modeling, rendering and animation package](https://gitlab.cs.washington.edu/cse557-24au/cse557-24au-students/cse557-24au-hzhao5)**
+
+- Developed a software rasterization pipeline for GPU-independent preview renders, using OpenGL
+- Designed interactive mesh editing tools using a halfedge data structure, enabling efficient topology changes
+- Built a path-tracing renderer with efficient ray-scene intersection queries and realistic light simulation
+- Implemented an animation system with skeletal animation, linear-blend skinning, and particle simulation
+
+
+-----
+
+
 **[Primitive Tagging for Everyday Objects Research](https://github.com/merlinyx/primtag), [poster](https://github.com/merlinyx/primtag/blob/main/poster.png)**
 - Developed user-in-the-loop semi-automatic methods for identifying 3D geometric primitives on an input mesh 
 - Enhanced user interface for intuitive region selection and primitive type specification, benefiting novice users 
