@@ -6,14 +6,14 @@ layout: homepage
 ## About Me
 
 - I am a third-year undergraduate student in Computer Science at the University of Washington, working with [Gilbert Bernstein](https://gilbertbernstein.com/) and as a member of the [PLSE](https://uwplse.org/) lab.
+- I will be joining Amazon this summer as a Jr. SDE intern!
 - Previously, I did my internship at [Amazon Web Services AI Shanghai Lablet](https://www.amazonaws.cn/en/ailab/), where I am working on the popular [Deep Graph Library (DGL) framework](https://dgl.ai/).
-- **I am actively seeking summer internships and research opportunities for 2025.** Please feel free to reach out.
 - Although early in my academic journey, I have broad interests in programming languages, computer graphics, theory of computing, and machine learning.
 - Before college, I grew up in Wuhan, China. I was fortunate to attend Wuhan Foreign Languages School for middle school and Wuhan Britain-China School for high school; the experiences at both schools have given me the perspective and courage to study abroad.
 
 
 ## Skills
-- **Programming Languages:** Proficient in Java, C/C++, Python, JavaScript/TypeScript, SQL, OCaml, Racket, Ruby, MATLAB, Excel
+- **Programming Languages:** Proficient in Java, C/C++, Python, JavaScript/TypeScript, SQL, CUDA, OCaml, Racket, Ruby, MATLAB
 - **Programming Concepts:** Proficient in Object-Oriented Programming (OOP) and Functional Programming (FP); Familiar with applications of Convolutional Neural Networks (CNNs)
 - **Frameworks:** Proficient in JUnit Testing, ReactJS, PyTorch, Java Spark, NumPy, SQL Server, NoSQL; Familiar with Java Swing, Figma, Flutter
 - **Mathematical Background:** Completed two challenging honor math series; proficient in advanced calculus, differential equations, linear algebra, topology, real and complex analysis, abstract algebra
@@ -27,6 +27,7 @@ layout: homepage
 
 
 ## News
+- **[Jun. 2024]** I will join Amazon as a Jr. SDE Intern.
 - **[Sep. 2024]** I started research on [3D Gaussian Splatting (3DGS)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), focusing on improving the performance of the rendering pipeline.
 - **[Jun. 2024]** I began my internship at [Amazon Web Services AI Shanghai Lablet](https://www.amazonaws.cn/en/ailab/), working on the popular [Deep Graph Library (DGL) framework](https://dgl.ai/).
 - **[May. 2024]** I delivered a guest lecture for [CSE 341 Programming Languages](https://cse.uw.edu/341). Watch the [video](https://www.youtube.com/watch?v=gbGIDZzfK5U&ab_channel=StanleyYang).
@@ -50,7 +51,7 @@ layout: homepage
 
 ## Teaching
 
-- I am currently a teaching assistant for [CSE 341 & 413 Programming Languages](https://cse.uw.edu/341), having served for five consecutive quarters. The course focuses on functional programming, language design, and interpreter construction using OCaml. Other instructors have used languages such as Racket, Scheme, and Ruby. Additionally, I served as an infrastructure TA, leading grading tasks, developing autograders, and writing test scripts and cases. I also delivered a guest lecture on Static vs. Dynamic Typing, which can be viewed [here](https://www.youtube.com/watch?v=gbGIDZzfK5U&ab_channel=StanleyYang).
+- I am currently a teaching assistant for [CSE 341 & 413 Programming Languages](https://cse.uw.edu/341), having served for six consecutive quarters. The course focuses on functional programming, language design, and interpreter construction using OCaml. Other instructors have used languages such as Racket, Scheme, and Ruby. Additionally, I served as an infrastructure TA, leading grading tasks, developing autograders, and writing test scripts and cases. I also delivered a guest lecture on Static vs. Dynamic Typing, which can be viewed [here](https://www.youtube.com/watch?v=gbGIDZzfK5U&ab_channel=StanleyYang).
 
 - I own the "[StanleyYang Talking about Math Video](https://weixin.qq.com/r/lx1cWa3EPmVCKOk6b0gT)" channel on WeChat, where I create and post math tutorial videos on a biweekly basis. My videos have supported the math studies of over 350 students, with a total of 26 videos.
 
