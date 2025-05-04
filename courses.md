@@ -61,6 +61,7 @@ layout: homepage
 - GEN ST 199: The University Community
 
 **In High School:**
+- [Oberlin College Summer Research: An Analysis of the Codeforces Rating System](./assets/files/WHBC/An_Analysis_of_the_Codeforces_Rating_System_-_Guang_Yang.pdf)
 - [Math Extended Essay: Maximize the Value of a Knapsack](./assets/files/WHBC/EE%20-%20DP2-3%20Stanley%20Guang%20YANG.pdf)
 - [Economics Portfolio: Micro/Macro/International Trade Economics Commentary](./assets/files/WHBC/Guang%20Yang,%20Stanley,%20HL%20Economics%20Portfolio.pdf)
 - [Mathematics Exploration: Properties and applications of the generalized distance between two points](./assets/files/WHBC/YANG%20GUANG,%20Stanley,%20DP1-3,%20Math%20IA%20final%20version.pdf)
